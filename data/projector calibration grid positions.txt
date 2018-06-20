@@ -1,0 +1,6 @@
+The below are given relative to the top left of the projectors, which is the same as the origin of the Gray code images. The top left of the projector appears in the top left of the camera images, as you would expect. Both projectors are 1024x768.
+
+For the synthetic data the calibration chequerboard is at position (378, 277), and is 270 pixels across in both dimensions (each square is 45x45 pixels).
+
+For the real data the calibration chequerboard is at position (518, 120), and is 299 pixels across in both dimensions.
+
